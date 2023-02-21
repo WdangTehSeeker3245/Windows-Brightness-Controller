@@ -1,0 +1,50 @@
+C:\Users\mell01\Desktop\john\BrightnessControl\bin\Debug\BrightnessControl.exe
+C:\Users\mell01\Desktop\john\BrightnessControl\bin\Debug\BrightnessControl.pdb
+C:\Users\mell01\Desktop\john\BrightnessControl\obj\Debug\BrightnessControl.ControlForm.resources
+C:\Users\mell01\Desktop\john\BrightnessControl\obj\Debug\BrightnessControl.Properties.Resources.resources
+C:\Users\mell01\Desktop\john\BrightnessControl\obj\Debug\BrightnessControl.csproj.GenerateResource.Cache
+C:\Users\mell01\Desktop\john\BrightnessControl\obj\Debug\BrightnessControl.exe
+C:\Users\mell01\Desktop\john\BrightnessControl\obj\Debug\BrightnessControl.pdb
+C:\Users\mell01\Desktop\john\BrightnessControl\obj\Debug\BrightnessControl.Brightness.resources
+C:\Users\mell01\Desktop\john\BrightnessControl\obj\Debug\BrightnessControl.csprojResolveAssemblyReference.cache
+E:\Visual Studio\brightness\Brightness\BrightnessControl\obj\Debug\BrightnessControl.exe
+E:\Visual Studio\brightness\Brightness\BrightnessControl\obj\Debug\BrightnessControl.pdb
+E:\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\BrightnessControl.ControlForm.resources
+E:\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\BrightnessControl.Properties.Resources.resources
+E:\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\BrightnessControl.Brightness.resources
+E:\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\BrightnessControl.csproj.GenerateResource.Cache
+E:\Visual Studio\brightness\BrightnessControl - Copy\bin\Debug\DimmerAPP.exe.config
+E:\Visual Studio\brightness\BrightnessControl - Copy\bin\Debug\DimmerAPP.exe
+E:\Visual Studio\brightness\BrightnessControl - Copy\bin\Debug\DimmerAPP.pdb
+E:\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\DimmerAPP.exe
+E:\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\DimmerAPP.pdb
+E:\Build Folder\DimmerAPP.exe.config
+E:\Build Folder\DimmerAPP.exe
+E:\Build Folder\DimmerAPP.pdb
+E:\Build Folder\Visual C#\DimmerAPP.exe.config
+E:\Build Folder\Visual C#\DimmerAPP.exe
+E:\Build Folder\Visual C#\DimmerAPP.pdb
+C:\Users\Izaus\Documents\IzausLab\Project\Build Folder\Visual C#\DimmerAPP.exe.config
+C:\Users\Izaus\Documents\IzausLab\Project\Build Folder\Visual C#\DimmerAPP.exe
+C:\Users\Izaus\Documents\IzausLab\Project\Build Folder\Visual C#\DimmerAPP.pdb
+C:\Users\Izaus\Documents\IzausLab\Project\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\BrightnessControl.csproj.AssemblyReference.cache
+C:\Users\Izaus\Documents\IzausLab\Project\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\BrightnessControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Izaus\Documents\IzausLab\Project\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\BrightnessControl.ControlForm.resources
+C:\Users\Izaus\Documents\IzausLab\Project\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\BrightnessControl.Properties.Resources.resources
+C:\Users\Izaus\Documents\IzausLab\Project\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\BrightnessControl.Brightness.resources
+C:\Users\Izaus\Documents\IzausLab\Project\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\BrightnessControl.csproj.GenerateResource.cache
+C:\Users\Izaus\Documents\IzausLab\Project\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\BrightnessControl.csproj.CoreCompileInputs.cache
+C:\Users\Izaus\Documents\IzausLab\Project\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\DimmerAPP.exe
+C:\Users\Izaus\Documents\IzausLab\Project\Visual Studio\brightness\BrightnessControl - Copy\obj\Debug\DimmerAPP.pdb
+C:\Users\Izaus\Documents\IzausLab\Build Folder\Visual C#\DimmerAPP.exe.config
+C:\Users\Izaus\Documents\IzausLab\Build Folder\Visual C#\DimmerAPP.exe
+C:\Users\Izaus\Documents\IzausLab\Build Folder\Visual C#\DimmerAPP.pdb
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Debug\BrightnessControl.csproj.AssemblyReference.cache
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Debug\BrightnessControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Debug\BrightnessControl.ControlForm.resources
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Debug\BrightnessControl.Properties.Resources.resources
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Debug\BrightnessControl.Brightness.resources
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Debug\BrightnessControl.csproj.GenerateResource.cache
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Debug\BrightnessControl.csproj.CoreCompileInputs.cache
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Debug\DimmerAPP.exe
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Debug\DimmerAPP.pdb
