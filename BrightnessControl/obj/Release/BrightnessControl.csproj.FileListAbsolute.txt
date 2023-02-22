@@ -1,0 +1,12 @@
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\bin\Release\DimmerAPP.exe.config
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\bin\Release\DimmerAPP.exe
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\bin\Release\DimmerAPP.pdb
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Release\BrightnessControl.csproj.AssemblyReference.cache
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Release\BrightnessControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Release\BrightnessControl.ControlForm.resources
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Release\BrightnessControl.Properties.Resources.resources
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Release\BrightnessControl.Brightness.resources
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Release\BrightnessControl.csproj.GenerateResource.cache
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Release\BrightnessControl.csproj.CoreCompileInputs.cache
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Release\DimmerAPP.exe
+C:\Users\Izaus\Documents\IzausLab\Project\DimmerApp\BrightnessControl\obj\Release\DimmerAPP.pdb
